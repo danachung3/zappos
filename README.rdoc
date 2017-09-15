@@ -1,28 +1,9 @@
-== README
+My name is Dana Chung and I am junior at Williams College! I am a computer science major and biology major. I am originally from Orange, Connecticut and I am a competitive varsity swimmer! In my free time I love to spend time outdoors (Williams is known for our AMAZING mountains) and reading.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My love for programming started two years ago when I completed an intensive  computer programming/entrepreneurship program. I learned how to develop ideas into products and create these products with coding. I realized how much power design and coding has on making a difference and a valuable product. I realized I am super excited about front-end development because I saw how coding and especially designing with HTML/CSS gives me the ability create new websites, new products, and many other new things.
 
-Things you may want to cover:
+Also, This past summer I worked at a venture backed tech company that screens genomes to determine the best cancer treatment and drug regimes. As the first company's female developer, I helped implement automated QA testing across all API endpoints. In addition to that (also my most favorite part), I coded and help design key componenets including search, detail and design elements for the next generation web application platform called My Cancer Genome 2.0. I worked heavily with Django/Python, HTML/CSS and JavaScript to contribute features that are to be used on their website.
 
-* Ruby version
+My experience working at such a small start up gave me great start to learning about this career field. I am beyond excited to learn so much more at Zappos :)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+I created a ruby/ruby on rails app to show my some of my html/css skills and website development abilities. The html and css can be found in the view and stylesheet folders.
